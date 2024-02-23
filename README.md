@@ -29,4 +29,5 @@ Contributions are welcome! If you'd like to contribute to this project, feel fre
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-# Also you can see this https://amar-webdev.github.io/apple-clone/   
+# Also you can see this
+https://amar-webdev.github.io/apple-clone/   
