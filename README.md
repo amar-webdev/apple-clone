@@ -2,22 +2,13 @@
 
 This project is a clone of the Apple website's landing page. It aims to replicate the design and layout of the original Apple website using HTML and CSS.
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Introduction
 
 The Apple Clone Project is created for educational purposes to practice front-end development skills. It demonstrates how to recreate a complex website layout using HTML for structure and CSS for styling.
 
 ## Features
 
-- Responsive design: The clone is designed to be responsive and compatible with various screen sizes and devices.
+- only desktop or pc device 
 - Flexbox and Grid layout: The layout is implemented using modern CSS techniques like Flexbox and Grid for better alignment and positioning of elements.
 - HTML5 and CSS3: The project utilizes the latest HTML5 semantic elements and CSS3 properties to create a visually appealing and modern-looking website.
 
@@ -37,4 +28,5 @@ Contributions are welcome! If you'd like to contribute to this project, feel fre
 
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
-   
+
+# Also you can see this https://amar-webdev.github.io/apple-clone/   
